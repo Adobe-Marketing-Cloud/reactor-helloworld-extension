@@ -3,6 +3,7 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "Greets users in a friendly fashion.",
+  "iconPath": "resources/icons/Use_Your_Own_Logo.svg",
   "author": {
     "name": "Adobe Systems Incorporated",
     "url": "http://adobe.com",
